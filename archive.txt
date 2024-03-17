@@ -1,0 +1,287 @@
+<style>
+    .row {
+        width: 100%;
+    }
+</style>
+
+<body>
+    <!-- <div class="row" style="height: 30px; background-color: snow;">
+    <div class="col-lg-12">
+    <a href="http://127.0.0.1:5000/">Home</a>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-lg-5" style="height: 140px; background-color: rgb(95, 193, 201);"></div>
+    <div class="col-lg-6" style="height: 140px; background-color: rgb(95, 193, 201);">
+        <h1>هوش مصنوعی چیست</h1>
+    </div>
+    <div class="col-lg-1" style="height: 140px; background-color: rgb(95, 193, 201);"></div>
+    
+</div>
+<div class="row">
+    <div class="col-lg-4">
+        <img src="/img/circle-scatter-haikei.png" alt="1" />
+        <img src="../img/img1.png" />
+        <br>
+        <p style="text-align: center;">{{ note }}</p>
+
+        <div></div>
+    </div>
+    <div class="col-lg-4">
+        <img src="images/2.png" alt="2">
+        <br>
+        <h7>تاریخچه هوش مصنوعی ریشه‌های خود را در سال‌های ۱۹۵۰ میلادی دارد، زمانی که محققانی همچون آلن تورینگ و جان مک کارتی در مورد مسائلی مانند "آیا ماشین می‌تواند به عنوان یک انسان فکر کند؟" شروع به تحقیقات کردند. سپس در دهه‌های بعدی، محققان و دانشمندان مختلف به بررسی الگوریتم‌ها، شبکه‌های عصبی مصنوعی، یادگیری ماشینی، و دیگر فنون مرتبط با هوش مصنوعی پرداختند.</h7>
+    </div>
+    <div class="col-lg-4">
+        <img src="Python-test-pr2/images/3.png" alt="3">
+        <br>
+        <h7>یکی از لحظات مهم در تاریخ هوش مصنوعی این بود که موفقیت‌های چشمگیری در زمینه‌های مانند تشخیص صوت، تصویر، ترجمه متون، و حتی بازی‌های رایانه‌ای به‌دست آمد. این توانایی‌ها نشان می‌دهد که هوش مصنوعی در حال توسعه و پیشرفت است و می‌تواند در زمینه‌های مختلف از زندگی ما تأثیرگذار باشد.</h7>
+    </div>
+</div>
+<div class="row">
+        <div class="col-lg-2"></div>
+        <div class="col-lg-4">
+            <img src="../4.png" alt="4">
+            <br>
+            <h7 style=" text-align: center;">همچنین، از دهه ۲۰۰۰ به بعد، با پیشرفت سخت‌افزارها، نرم‌افزارها و الگوریتم‌های هوش مصنوعی، ما شاهد پیشرفت‌های چشم‌گیری در این زمینه بوده‌ایم. از هوش مصنوعی در سیستم‌های هوشمند خودروها، ترجمه‌های خودکار متون، تشخیص چهره، توصیه‌های سفارشی در پلتفرم‌های آنلاین، و حتی در بهبود درمان بیماری‌ها مانند سرطان استفاده می‌شود.</h7>
+
+        </div>
+        <div class="col-lg-2"></div>
+        <div class="col-lg-4">
+            <img src="/../images/5.png" alt="5">
+            <br>
+            <h7 style=" text-align: center;">در نهایت، هوش مصنوعی امیدوارم که بتواند در آینده بهبود زندگی انسان‌ها و جامعه به‌طور کلی را فراهم کند، اما در عین حال باید مراقب باشیم که اثرات منفی آن نیز در نظر گرفته شود و از راهکارهایی برای کنترل و مدیریت این اثرات استفاده شود.</h7>
+
+        </div>
+    </div>
+    
+    <div class="row">
+        <div class="col-lg-4" style="height: 140px; background-color: rgb(186, 246, 160);"></div>
+    <div class="col-lg-6" style="height: 140px; background-color: rgb(186, 246, 160);">
+     <h1>چطور میطوانی از هوشمصنوعی استفاده کنیم؟</h1>
+    </div>
+    <div class="col-lg-2" style="height: 140px; background-color: rgb(186, 246, 160);"></div>
+    </div>
+    <br>
+    <div class="row">
+        <div class="col-lg-4" style="height: 140px; background-color: rgb(95, 193, 201);"></div>
+    <div class="col-lg-6" style="height: 140px; background-color: rgb(95, 193, 201);">
+     <h1> قبل از همه  ما باید بهامیم چند نوعی هوشمصتوعی داداریم</h1>
+    </div>
+    <div class="col-lg-2" style="height: 140px; background-color: rgb(95, 193, 201);"></div>
+    </div>
+    <br>
+<div class="row">
+    <div class="col-lg-5" style="height: 140px; background-color: rgb(255, 170, 0);"></div>
+    <div class="col-lg-7" style="height: 140px; background-color: rgb(255, 170, 0);">
+    <h1>یادگیری ماشین</h1>
+    <br>
+    </div>
+</div>
+<br>
+    <div class="row">
+    <div class="col-lg-6">
+        <a href="https://fa.wikipedia.org/wiki/شبکه_عصبی_مصنوعی">شبکه‌های عصبی مصنوعی</a>
+        <br>
+    <img src="/images/Untitled design.jpg" >
+    </div>
+    </div>
+    <div class="row">
+        <div class="col-lg-6">
+            <a href="https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%D8%AE%D8%AA_%D8%AA%D8%B5%D9%85%DB%8C%D9%85">درخت تصمیم</a>
+            <br>
+        <img src="/images/Untitled design.jpg" >
+        </div>
+        </div>
+         <div class="row">
+        <div class="col-lg-6">
+            <a href="https://fa.wikipedia.org/wiki/ماشین_بردار_پشتیبانی">ماشین‌های بردار پشتیبان </a>
+            <br>
+        <img src="/images/Untitled/8.jpg" >
+        </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-6">
+                <a href="https://fa.wikipedia.org/wiki/یادگیری_ماشین">الگوریتم های کلاس بندی و رگرسیون</a>
+                <br>
+            <img src="/images/Untitled/9.jpg" >
+            </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-6">
+                    <a href="https://fa.wikipedia.org/wiki/DBSCAN">مدل‌های خوشه‌بندی مانند K-Means و DBSCAN</a>
+                    <br>
+                <img src="/images/Untitled/10.jpg" >
+                </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-5" style="height: 140px; background-color: rgb(186, 246, 160);"></div>
+                    <div class="col-lg-7" style="height: 140px; background-color: rgb(186, 246, 160);">
+                    <h1> مدل‌های یادگیری عمیق</h1>
+                    <br>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-6">
+                        <a href="https://fa.wikipedia.org/wiki/شبکه_عصبی_پیچشی">شبکه عصبی پیچشی</a>
+                        <br>
+                    <img src="/images/Untitled/11.jpg" >
+                    </div>
+                </div>
+                 
+                     <div class="row">
+                        <div class="col-lg-6">
+                            <a href="https://fa.wikipedia.org/wiki/شبکه_عصبی_بازگشتی"> شبکه‌های عصبی بازگشتی</a>
+                            <br>
+                        <img src="/images/12.jpg" >
+                        </div>
+                     </div>
+                    
+                     <div class="row">
+                        <div class="col-lg-6">
+                            <a href="https://fa.wikipedia.org/wiki/شبکه_عصبی_بازگشتی">شبکه عصبی بازگشتی</a>
+                            <br>
+                        <img src="/images/13.jpg" >
+                        </div>
+                     </div>
+                     <div class="row">
+                        <div class="col-lg-5" style="height: 140px; background-color: rgb(186, 246, 160);"></div>
+                        <div class="col-lg-7" style="height: 140px; background-color: rgb(186, 246, 160);">
+                        <h1> مدل‌های پردازش زبان طبیعی <h1>
+                        <br>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <a href="https://fa.wikipedia.org/wiki/شبکه_عصبی_پیچشی#:~:text=شبکه%E2%80%8Cهای%20عصبی%20پیچشی%20یا%20همگشتی,در%20یادگیری%20ماشین%20استفاده%20می%E2%80%8Cشوند.">مدل‌های تولید متن
+                            </a>
+                            <br>
+                        <img src="/img/14.jpg" >
+                        </div>
+                     </div>
+                     <div class="row">
+                        <div class="col-lg-6">
+                            <a href="https://fa.wikipedia.org/wiki/ترجمه_ماشینی">ترجمه ماشینی</a>
+                            <br>
+                        <img src="/img/15.png" >
+                        </div>
+                     </div>
+                     <div class="row">
+                        <div class="col-lg-6">
+                            <a href="https://fa.wikipedia.org/wiki/تشخیص_عواطف_(احساسات)">تشخیص عواطف (احساسات)</a>
+                            <br>
+                        <img src="/img/16.png" >
+                        </div>
+                     </div>
+                     <div class="row">
+                        <div class="col-lg-6">
+                            <a href="https://fa.wikipedia.org/wiki/مدل_متن_به_تصویر">مدل متن به تصویر </a>
+                            <br>
+                        <img src="/img/17.png" >
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-5" style="height: 140px; background-color: rgb(246, 237, 160);"></div>
+                            <div class="col-lg-7" style="height: 140px; background-color: rgb(246, 237, 160);">
+                                <h1> مدل‌های تقویتی</h1>
+                            <br>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-6">
+                                <a href="https://fa.wikipedia.org/wiki/کیو-یادگیری">کیو-یادگیری</a>
+                                <br>
+                            <img src="/img/18.png" >
+                            </div>
+                            <div class="row">
+                                <div class="col-lg-6">
+                                    <a href="https://fa.wikipedia.org/wiki/یادگیری_تقویتی">یادگیری تقویتی</a>
+                                    <br>
+                                <img src="/img/19.png" >
+                                </div>
+                                <div class="row">
+                                    <div class="col-lg-5" style="height: 140px; background-color: rgb(160, 161, 246);"></div>
+                                    <div class="col-lg-7" style="height: 140px; background-color: rgb(160, 161, 246);">
+                                        <h1> مدل‌های تشخیص الگو </h1>
+                                    <br>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-lg-6">
+                                        <a href="https://fa.wikipedia.org/wiki/تشخیص_اشیاء">تشخیص اشیاء</a>
+                                        <br>
+                                    <img src="/img/20.png" >
+                                    </div>
+                                    
+
+                 <div class="row">
+                        <div class="col-lg-4" style="height: 140px; background-color: rgb(246, 204, 160);"></div>
+                        <div class="col-lg-8" style="height: 140px; background-color: rgb(246, 204, 160);">
+                             <h1>یاد بگریم AI الی ما میخایم که استفاته کردنی از  </h1>
+                        
+                     </div>
+                      
+                </div>
+             <br /> 
+             <br />
+             <br />
+             <div class="row">
+                <div class="col-lg-4" style="height: 140px; background-color: rgb(96, 186, 126);"></div>
+               <div class="col-lg-7" style="height: 140px; background-color: rgb(96, 186, 126);">
+                    <h1> میشه متن به سصویر متن به متن متن به صدا AIخلاصه </h1>
+                    <br>
+               </div>
+               <div class="col-lg-1" style="height: 140px; background-color: rgb(96, 186, 126);"></div>
+            </div>
+<br>
+
+
+<div class="row">
+    <div class="col-lg-3" style="height: 140px; background-color: rgb(255, 170, 0);"></div>
+    <div class="col-lg-9" style="height: 140px; background-color: rgb(255, 170, 0);">
+        <h1>به عنوان یک فردی که تازه با هوش مصنوعی آشنا شده‌اید، می‌خواهید از آن استفاده کنید</h1>
+        <br>
+    </div>
+</div>
+
+     <div class="row">
+                <div class="col-lg-2" style="height: 140px; background-color: rgb(176, 51, 51);"></div>
+                <div class="col-lg-10" style="height: 140px; background-color: rgb(176, 51, 51);">
+                    <h1>در قسمتی شایان شما در مورد  هوشمصنوعی متن به تصویر لیت ویبسایتی های بریی را مشاعده میکنین</h1>
+                    <br>
+                </div>
+        </div>
+        <br>
+        <div class="row">
+            <div class="col-lg-2" style="height: 140px; background-color: rgb(176, 51, 51);"></div>
+            <div class="col-lg-12" style="height: 140px; background-color: rgb(176, 51, 51);">
+                <h1>در قسمتی شایان شما در مورد  هوشمصنوعی متن به تصویر لیت ویبسایتی های بریی را مشاعده میکنین</h1>
+            </div>
+        </div> -->
+
+    <div class="row">
+        <div class="col-lg-12" style="height: 140px; background-color: rgb(176, 51, 51);">
+            <h1>{{ note1 }}</h1>
+        </div>
+    </div>
+    <br>
+    <br>
+    <br>
+    <br>
+
+    <div class="row">
+        <div class="col-lg-12">
+            <h1> {{ mr }}</h1>
+        </div>
+    </div>
+    <br>
+    <div class="row">
+        <div class="col-lg-12" style="height: 140px; background-color: rgb(246, 255, 0);">
+            <h1> {{ sinakhawar }}</h1>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-lg-12" style="height: 140px; background-color: rgb(147, 150, 59);">
+            <h1> {{ sinaz }}</h1>
+        </div>
+    </div>
